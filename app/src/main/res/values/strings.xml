@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dictaphone</string>
+    <string name="recording_text">Запись</string>
+    <string name="listen_text">Слушать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="d">Записать</string>
+    <string name="micro">micro</string>
+    <string name="recording_001">Recording 001</string>
+    <string name="music">music</string>
+    <string name="play">play</string>
+    <string name="area">area</string>
+    <string name="start_text">СТАРТ</string>
+</resources>
